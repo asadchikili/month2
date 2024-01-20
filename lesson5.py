@@ -1,1 +1,1 @@
-print
+password="122446"
